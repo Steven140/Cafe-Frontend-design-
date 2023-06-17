@@ -1,1 +1,3 @@
 # Cafe-Frontend-design-
+![image](https://github.com/Steven140/Cafe-Frontend-design-/assets/89894756/d800c40e-2911-4087-b650-6f28db91d56b)
+and more ahead...
